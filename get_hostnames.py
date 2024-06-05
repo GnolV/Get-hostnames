@@ -9,7 +9,6 @@ from time import sleep
 
 '''https://ipinfo.io/countries/vn#section-routers'''
 
-
 headers = {
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0"
 }
@@ -30,7 +29,7 @@ def get_asn_list_vn():
             })
 
     '''Lưu danh sách vào file csv'''
-    with open("C:\\Users\\Admin\\Documents\\crtsh\\DS_ASN_VN.csv", "w", newline="") as csvfile:
+    with open("DS_ASN_VN.csv", "w", newline="") as csvfile:
         writer = csv.writer(csvfile)
         fields = asn_vn_list[0].keys()
         writer.writerow(fields)
@@ -41,14 +40,14 @@ def get_asn_list_vn():
 '''Lấy danh sách ASN của các ngân hàng ở Việt Nam'''
 def get_asn_bank_list():
     asn_bank_list = []
-    with open("C:\\Users\\Admin\\Documents\\crtsh\\DS_ASN_VN.csv", "r") as csvfile:
+    with open("DS_ASN_VN.csv", "r") as csvfile:
         reader = csv.reader(csvfile)
         for row in reader:
             if row[0]=="asn": continue
             if row[2] != "0" and ("bank" in row[1] or "Bank" in row[1] or "BANK" in row[1]):
                 asn_bank_list.append(row[0])
 
-    with open("C:\\Users\\Admin\\Documents\\crtsh\\asn_bank_vn.txt", "w") as file:
+    with open("asn_bank_vn.txt", "w") as file:
         for i in asn_bank_list:
             file.write(i + "\n")
 
@@ -58,7 +57,7 @@ def get_block_list():
     asn_bank_list = get_bank_list()
     for asn in asn_bank_list:
         # print(asn)
-        with open("C:\\Users\\Admin\\Documents\\crtsh\\Bank\\{}_ip_blocks.txt".format(asn), "w") as file:
+        with open("Bank/{}_ip_blocks.txt".format(asn), "w") as file:
             URL = "https://whoisrequest.com/ip/{}".format(asn)
             # print(URL)
             res = requests.get(url=URL, headers=headers)
@@ -76,7 +75,7 @@ def get_ip_list():
     ip_list = []
     asn_bank_list = get_bank_list()
     for asn in asn_bank_list:
-        with open("C:\\Users\\Admin\\Documents\\crtsh\\Bank\\{}_ip_blocks.txt".format(asn), "r") as fr:
+        with open("Bank/{}_ip_blocks.txt".format(asn), "r") as fr:
             lines = fr.readlines()
             for line in lines:
                 line = line.rstrip("\n")
@@ -84,7 +83,7 @@ def get_ip_list():
                     if str(ip) not in ip_list:
                         ip_list.append(str(ip))
             fr.close()
-        with open("C:\\Users\\Admin\\Documents\\crtsh\\Bank\\IP_address\\{}_ip_list.txt".format(asn), "w") as fw:
+        with open("Bank/IP_address/{}_ip_list.txt".format(asn), "w") as fw:
             for ip in ip_list:
                 fw.write(ip + "\n")
             fw.close()
@@ -108,7 +107,7 @@ def reverse_dns_lookup(ip_address):
 
 def get_bank_list():
     asn_bank_list = []
-    with open("C:\\Users\\Admin\\Documents\\crtsh\\asn_bank_vn.txt", "r") as file:
+    with open("asn_bank_vn.txt", "r") as file:
         lines = file.readlines()
         for line in lines:
             asn_bank_list.append(line.rstrip("\n"))
@@ -124,14 +123,14 @@ def get_dns_list():
     asn_bank_list = get_bank_list()
     for asn in asn_bank_list:
         ip_list = []
-        with open("C:\\Users\\Admin\\Documents\\crtsh\\Bank\\IP_address\\{}_ip_list.txt".format(asn), "r") as fr:
+        with open("Bank/IP_address/{}_ip_list.txt".format(asn), "r") as fr:
             lines = fr.readlines()
             for line in lines:
                 ip_list.append(line.rstrip("\n"))
         with ThreadPoolExecutor(max_workers=16) as exec:
             results = list(exec.map(get_dns, ip_list))
         ip_list.clear()
-        with open("C:\\Users\\Admin\\Documents\\crtsh\\Bank\\IP_address\\Hostname\\{}_hostname.txt".format(asn), "w") as fw:
+        with open("Bank/IP_address/Hostname/{}_hostname.txt".format(asn), "w") as fw:
             for res in results:
                 if res:
                     fw.write("{}\t{}\n".format(res[0], res[1]))
