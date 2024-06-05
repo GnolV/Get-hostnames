@@ -1,4 +1,4 @@
-# Lấy danh sách hostname từ dánh sách IP theo ASN của Việt Nam
+# Lấy danh sách hostname từ danh sách IP theo ASN của Việt Nam
 ## Yêu cầu
 - Thư viện dnspython
 ```bash
