@@ -1,0 +1,5 @@
+203.201.56.21	mail.bidv.vn
+203.201.56.157	mail02.bidv.com.vn
+203.201.58.125	mail.vinalines-shipping.com
+203.201.59.17	mail01.bidv.com.vn
+203.201.59.51	mail.hanoihorisonhotel.com.vn

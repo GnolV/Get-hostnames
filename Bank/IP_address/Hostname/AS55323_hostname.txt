@@ -1,0 +1,4 @@
+202.44.137.16	mail.vietinbanksc.com.vn
+202.44.137.17	owa.vietinbanksc.com.vn
+202.44.137.30	mail.chungkhoancongthuong.com.vn
+202.44.137.31	mail.chungkhoancongthuong.vn

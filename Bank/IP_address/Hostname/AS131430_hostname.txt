@@ -1,0 +1,3 @@
+103.56.168.10	ebank.baovietbank.vn
+103.56.168.12	www.baovietbank.vn
+103.56.168.15	smtp.baovietbank.vn

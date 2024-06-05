@@ -1,0 +1,3 @@
+103.89.121.15	email4.fccom.com.vn
+103.89.121.16	email6.msb.com.vn
+103.89.122.15	email5.msb.com.vn

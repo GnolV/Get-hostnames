@@ -1,0 +1,10 @@
+103.5.205.20	channel.shinhan.com.vn
+103.5.205.21	channel.shinhan.com.vn
+103.5.205.22	channel.shinhan.com.vn
+103.5.205.23	cardmail.shinhan.com.vn
+103.5.205.24	bankmail.shinhan.com.vn
+103.5.205.25	einvoice.shinhan.com.vn
+103.5.205.80	cms.shinhan.com.vn
+103.5.205.82	lbs.shinhan.com.vn
+103.5.205.85	mcu3api.shinhan.com.vn
+103.5.205.86	pplapi.shinhan.com.vn

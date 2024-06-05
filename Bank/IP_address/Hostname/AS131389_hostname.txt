@@ -1,0 +1,3 @@
+103.241.248.30	smtp.seabank.com.vn
+103.241.248.31	mail.aseansc.com.vn
+103.241.248.36	smtp2.seabank.com.vn

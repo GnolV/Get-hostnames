@@ -1,0 +1,4 @@
+103.207.32.136	mail.namabank.com.vn
+103.207.32.152	dns04.namabank.com.vn
+103.207.32.153	dns05.namabank.com.vn
+103.207.32.238	dns02.namabank.com.vn

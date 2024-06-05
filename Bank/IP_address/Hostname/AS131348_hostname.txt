@@ -1,0 +1,6 @@
+103.11.172.88	mail.vietcombank.com.vn
+103.11.172.89	smtp2.vietcombank.com.vn
+103.11.172.243	mail.vcbl.com.vn
+103.11.173.53	info.vietcombank.com.vn
+103.11.173.253	info.vietcombank.com.vn
+103.11.174.180	poc99.vietcombank.com.vn

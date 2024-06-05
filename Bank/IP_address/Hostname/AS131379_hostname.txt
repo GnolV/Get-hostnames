@@ -1,0 +1,2 @@
+103.31.120.65	smtp.oceanbank.vn
+103.31.120.107	mail.kaizenvn.com.vn

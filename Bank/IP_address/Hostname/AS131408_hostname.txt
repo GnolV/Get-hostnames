@@ -1,0 +1,2 @@
+103.232.56.26	smtp.tpb.vn
+103.232.56.123	smtp1.tpb.com.vn

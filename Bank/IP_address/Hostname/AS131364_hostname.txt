@@ -1,0 +1,2 @@
+103.12.104.37	mx1.mbcapital.com.vn
+103.12.104.38	mx2.mbamc.com.vn

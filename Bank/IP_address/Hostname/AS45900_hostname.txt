@@ -1,0 +1,11 @@
+202.58.245.11	sg4.sbv.gov.vn
+202.58.245.91	smtp1.sbv.gov.vn
+202.58.245.92	smtp1.sbv.gov.vn
+202.58.245.101	www.sbv.gov.vn
+202.58.245.127	mgsimo.sbv.gov.vn
+202.58.245.128	simo.sbv.gov.vn
+202.58.245.175	bcnhnn.sbv.gov.vn
+202.58.245.176	ssoext.sbv.gov.vn
+202.58.245.185	itbankopen.sbv.gov.vn
+202.58.245.230	smtp1.sbv.gov.vn
+202.58.245.231	smtp2.sbv.gov.vn

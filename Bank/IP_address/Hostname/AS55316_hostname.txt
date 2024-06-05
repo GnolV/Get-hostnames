@@ -1,0 +1,4 @@
+122.102.112.15	smarthost.habubank.com.vn
+122.102.112.20	mail1.shb.com.vn
+122.102.112.21	mx.shb.com.vn
+122.102.112.57	mail2.shb.com.vn
