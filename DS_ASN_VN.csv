@@ -1,379 +1,768 @@
-asn,organization,ips_assigned
-AS45899,VNPT Corp,7.5M
-AS7552,Viettel Group,5.8M
-AS18403,The Corporation for Financing & Promoting Technology,1.4M
-AS24086,Viettel Corporation,"745,472"
-AS45543,SaiGon Tourist cable Televition Company,"196,608"
-AS7602,Saigon Postel Corporation,"124,928"
-AS45903,CMC Telecom Infrastructure Company,"78,848"
-AS24173,Netnam Company,"65,536"
-AS135905,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP,"51,200"
-AS38731,CHT Compamy Ltd,"46,080"
-AS38244,VNG Corporation,"34,816"
-AS24085,Quang Trung Software City Development Company,"33,792"
-AS38735,Global Data Service Joint Stock Company,"32,768"
-AS131429,MOBIFONE Corporation,"32,256"
-AS38726,VTC DIGICOM,"20,480"
-AS24088,HCMC Branch,"19,712"
-AS131392,GMO-Z.com Runsystem Joint Stock Company,"19,456"
-AS7643,Vietnam Posts and Telecommunications (VNPT),"18,944"
-AS45538,Online data services,"17,920"
-AS38248,VTC-,"14,336"
-AS45544,SUPERDATA-,"14,336"
-AS45539,VTCWLB-,"10,240"
-AS55322,North Power Company,"8,192"
-AS45896,Mobifone Global JSC,"8,192"
-AS38732,CMC Telecom Infrastructure Company,"7,936"
-AS45894,FPT Online JSC,"7,424"
-AS38733,CMC Telecom Infrastructure Company,"7,168"
-AS55313,Hanel Communication JSC,"6,912"
-AS63731,TIEN PHAT TECHNOLOGY CORPORATION,"6,656"
-AS131353,NhanHoa Software company,"6,144"
-AS38247,Vietnamobile Telecommunications Joint Stock Company,"6,144"
-AS56150,Viet Solutions Services Trading Company Limited,"5,632"
-AS135918,VIET DIGITAL TECHNOLOGY LIABILITY COMPANY,"5,120"
-AS45557,Vietnam Technology and Telecommunication JSC,"4,864"
-AS135932,Viet Storage Technology Joint Stock Company,"4,864"
-AS131127,Global Telecom Corp,"4,352"
-AS63747,Central Post and Telecommunication (CPT),"4,096"
-AS55309,Minh Tu Telecom Limited Company,"4,096"
-AS131388,Vietnam HTS.,"4,096"
-AS45542,VietNam National University Ha Noi,"4,096"
-AS131386,Long Van System Solution JSC,"3,840"
-AS24175,National Agency for Scientific and Technological Information,"3,584"
-AS131414,Long Van Soft Solution JSC,"3,072"
-AS63741,DCNET Telecommunication joint stock company,"3,072"
-AS135967,Bach Kim Network solutions Join stock company,"2,560"
-AS131428,Rainbow E-Commerce Company Limited,"2,560"
-AS24066,Vietnam Internet Network Information Center,"2,048"
-AS135942,Adsota Corporation,"2,048"
-AS135944,VinhNam Commercial informatics service corporation,"2,048"
-AS135951,Webico Company Limited,"2,048"
-AS63760,AZDIGI Corporation,"2,048"
-AS63761,Cong ty TNHH Dich vu truc tuyen Maxdata,"2,048"
-AS131349,Digital telecomminication service joint stock,"2,048"
-AS63765,Ligh technology viet joint stock company,"2,048"
-AS131367,Viet Online trading service corporation,"2,048"
-AS56141,Danang ICT Infrastructure Development Center,"2,048"
-AS131410,Vietnam Television Cable Corporation One Member Company Limited,"2,048"
-AS38738,L.C.S Company.,"2,048"
-AS56147,Creative Communication Vietnam Joint Stock Company,"2,048"
-AS56149,Cong ty CP Truyen thong quoc te Incom,"2,048"
-AS56151,DigiStar Company Limited,"2,048"
-AS56155,Tuong Minh service private enterprise,"2,048"
-AS23902,Vietnam Internet network information center (VNNIC),"2,048"
-AS131423,Hanoi,"2,048"
-AS131427,AOHOAVIET-,"2,048"
-AS131435,Vietnam Esports and Entertainment Joint Stock Company,"2,048"
-AS45546,Gtel Mobile Joint Stock Company,"2,048"
-AS135915,8 Floor,"2,048"
-AS45552,DTS Communication Technologies Corporation,"2,048"
-AS63733,VIETNAM LEAGUE OF LEGENDS,"2,048"
-AS131418,Vietnam Esports Development Joint Stock Company,"1,792"
-AS135920,Ehost software company limited,"1,792"
-AS131396,Rmit International University Vietnam,"1,536"
-AS56146,Global informatics solution corporation,"1,536"
-AS135916,descr: No. 14,"1,536"
-AS131402,FPT Software Company limited,"1,280"
-AS131413,VinCommerce General Commercial Services Joint Stock Company,"1,280"
-AS45547,SPT Telecommunications Service Center,"1,280"
-AS135936,LABO A&B Joint Stock Company,"1,024"
-AS63744,DAINAM Securities Company,"1,024"
-AS135937,Next Technology Investment and Development Company Limited,"1,024"
-AS135938,Home Credit Viet nam Finance Company Limited,"1,024"
-AS63746,Institute of Information Technology (IOIT),"1,024"
-AS135939,VNPT Electronic Payment Joint Stock Company,"1,024"
-AS135940,Nice Tech Center Vietnam Limited Company,"1,024"
-AS63748,Cuc An Toan Thong Tin- Bo Thong tin va Truyen thong,"1,024"
-AS63749,Luxoft VietNam Company LTD,"1,024"
-AS135943,Truong Minh Thinh Online Trading And Service Co.,"1,024"
-AS63751,Vietcombank securities Company limited,"1,024"
-AS63752,Hoa Binh Department of Information and Communications,"1,024"
-AS55305,ODS Joint Stock Company,"1,024"
-AS135946,Long An Department of Information and Communications,"1,024"
-AS55306,Vietnam bank for Agriculture anh Rural Development,"1,024"
-AS63754,VMG MEDIA JOINT STOCK COMPANY,"1,024"
-AS63755,Russia joint venture bank,"1,024"
-AS55308,Informatics Center-Ministry of Planning and Investment,"1,024"
-AS63756,VSTV-,"1,024"
-AS135949,Cloudfone Viet Nam Joint Stock Company,"1,024"
-AS63757,Pacific Technology Development and Communication joint stock company,"1,024"
-AS131342,Techcombank,"1,024"
-AS63758,VETC Corporation,"1,024"
-AS131343,Vietnam Internationl commercial joint stock bank,"1,024"
-AS63759,TaDu Joint Stock Company,"1,024"
-AS135953,Vietnam Online Network Solution Joint Stock Compnay,"1,024"
-AS63762,VietNam Booking corporation,"1,024"
-AS135955,Center Manage electronic information,"1,024"
-AS131348,Joint stock Commercial Bank for Foreign Trade of Viet Nam,"1,024"
-AS135956,Ministry of Health,"1,024"
-AS63764,INCOM SAI GON JOINT STOCK COMPANY,"1,024"
-AS135958,Teko Vietnam Technology Joint Stock Company,"1,024"
-AS131351,Orient commercial joint stock bank,"1,024"
-AS135959,Onebim Vietnam Limited Company,"1,024"
-AS63767,1st Floor,"1,024"
-AS131352,Vietnam Cybersecurity Emergency Response Teams/Coordination Center,"1,024"
-AS63768,Thien Binh Software Service Company Limited,"1,024"
-AS135961,Viet Nam Data Online Joint Stock Company,"1,024"
-AS24089,Vietnam Internet Network Information Center,"1,024"
-AS63769,Information and Communication Technology Center of Bac Kan Province,"1,024"
-AS135963,Ministry of Labour - Invalids and Social Affairs,"1,024"
-AS131358,Telehouse international corporation of vietnam,"1,024"
-AS131360,VietNam national financial switching joint stock company,"1,024"
-AS131363,General Department of Taxation,"1,024"
-AS131364,Military commercial join stock bank,"1,024"
-AS131365,Department Of Information Technology and Data of Natural Resources and Environment,"1,024"
-AS131368,Petro Viet Nam Oil Corporation,"1,024"
-AS131371,BaoMinh securities company,"1,024"
-AS131372,VIVAS-,"1,024"
-AS131373,Ministry of Science and Technology,"1,024"
-AS131374,Hong Quang Trading Investment Company Limited,"1,024"
-AS131375,Trung tam Thong tin Bo TT & TT,"1,024"
-AS131377,DIGIPOWER CO.,"1,024"
-AS131379,Ocean Commercial Joint Stock Bank,"1,024"
-AS131380,Niteco,"1,024"
-AS131381,General Department of Vietnam Customs,"1,024"
-AS131126,Vietnam Airlines Corp,"1,024"
-AS131383,PVI Holdings,"1,024"
-AS131385,VTV-,"1,024"
-AS131389,SeABank,"1,024"
-AS131390,Vietnam E-commerce Development Centre,"1,024"
-AS131391,Vietnam-Asia Commercial Joint Stock Bank,"1,024"
-AS131397,Hanoi Medical University,"1,024"
-AS131398,Lotte Data Communication Company Limited,"1,024"
-AS38727,Ha Noi University of Technology,"1,024"
-AS131401,Department of Information and Communication of Vinh Phuc,"1,024"
-AS38730,VIETINBANK-,"1,024"
-AS131403,ICSOFT Joint Stock Company,"1,024"
-AS131404,Masters Technology Corporation,"1,024"
-AS131407,Sai Gon CTT,"1,024"
-AS131408,TPBANK-,"1,024"
-AS38736,Vietnam Internet network information center (VNNIC),"1,024"
-AS38737,Vietnam Internet network information center (VNNIC),"1,024"
-AS131412,State Audit Office of Vietnam,"1,024"
-AS56148,Pertrovietnam finance joint stock corporation,"1,024"
-AS131415,Vietnam Internet network information center (VNNIC),"1,024"
-AS131417,Vietnam National Coaland Mineral Industries Holding Corporation Limited,"1,024"
-AS131419,Smartlink Card.,"1,024"
-AS131421,Intercom Telecom.,"1,024"
-AS56158,Digital world data online company,"1,024"
-AS56159,Sai Gon Join stock commercial Bank,"1,024"
-AS131425,The gioi di dong jsc,"1,024"
-AS131426,MISA-,"1,024"
-AS131430,Bao Viet bank,"1,024"
-AS38249,KIS Viet Nam Securities Corporations,"1,024"
-AS131434,Scom Technology Join stock company,"1,024"
-AS131437,DT Communications company limited,"1,024"
-AS131438,VIETNAM POST,"1,024"
-AS131439,VietNam credit information joint stock company,"1,024"
-AS23962,Vietnam Internet Network Information Center,"1,024"
-AS135900,HaNoi State data center,"1,024"
-AS135908,ECONET VIETNAM CORPORATION,"1,024"
-AS45540,ADTEC-AS-VN ADTEC Media Joint Stock Company,"1,024"
-AS135909,Vietnam National University Ho Chi Minh City,"1,024"
-AS45541,Joint Stock Commercial Bank for Investment and Development of Vietnam,"1,024"
-AS135911,VietNam maritime commercial joint stock bank,"1,024"
-AS135913,MB Ages life insurance company limited,"1,024"
-AS135917,Cong ty TNHH Web Panda,"1,024"
-AS135919,MB SHINSEI Finance Limited Liability Company,"1,024"
-AS135921,Maxserver Company Limited,"1,024"
-AS135922,Clearsky Service Solutions Company Limited,"1,024"
-AS63730,VNSO TECHNOLOGY COMPANY,"1,024"
-AS135923,SCTV INFRASTRUCTURE BUSINESS INVESMENT COMPANY LIMITED,"1,024"
-AS135924,FWD Vietnam Life Insurance Company Limited,"1,024"
-AS63732,FIM PLUS DIGITAL JOINT STOCK COMPANY,"1,024"
-AS135925,16 Au Co,"1,024"
-AS135926,Phu Nhuan Jewelry Joint Stock Company,"1,024"
-AS63734,365 Online technology joint stock company,"1,024"
-AS135927,Phu Quoc Petroleum Operating Company,"1,024"
-AS63735,Hoatoc company limited,"1,024"
-AS135929,International Education Corporation,"1,024"
-AS63740,TOCDOSOVN-,"1,024"
-AS135934,Dong Thap Department of Information and Communications,"1,024"
-AS63742,BIDV Securities joint stock company,"1,024"
-AS135945,VTC Online Joint Stock Company,768
-AS135957,Thua Thien Hue Electronic Data and Digital Information Center,768
-AS131357,Duy Tan University,768
-AS131362,HaNoi Stock Exchange,768
-AS131405,Saigon Newport,768
-AS56153,Digital Storage Company Limited,768
-AS23999,Vietnam News Agency,768
-AS63753,Viet Nam Lottery One Member Company Limited,512
-AS135947,Shopee Company Limited,512
-AS55311,LienViet Post Joint stock Commercial Bank,512
-AS131344,TH Food Chain Joint Stock Company,512
-AS135952,VPS Securities Joint Stock Company,512
-AS131345,KienLong commercial joint stock bank,512
-AS131347,Shinhan Viet Nam Bank Limited,512
-AS55315,Sai Gon Securities Incorporation,512
-AS55317,170 Hai Ba Trung,512
-AS55318,Asia Commercial Bank,512
-AS63766,VEGAGAME-,512
-AS135964,RVC Rong Viet Trade Service Telecom Company Limited,512
-AS131361,GSS Investment Corporation,512
-AS135969,Sen Do Technology Joint Stock Company,512
-AS135970,NPS Technology Co.,512
-AS135971,PetroVietNam Securities Joint Stock Company,512
-AS135972,Quang Nam Department of Information and Communications,512
-AS135973,Bamboo Airways Company Limited,512
-AS131366,Lanit Technology and Communication Joint Stock Company,512
-AS135974,National Power Transmission Corporation,512
-AS135977,Vietnam BDA technology and communication joint stock company,512
-AS135978,Hanoi University of Industry,512
-AS135979,SaoBacDau Technology Service JSC,512
-AS135980,Information and Communication Technology Center of Quang Ninh,512
-AS135981,VisualViet Company Limited,512
-AS135982,Hoi An South Development Ltd,512
-AS131376,KB Securities Vietnam Joint Stock Company,512
-AS135985,BCALL Viet Nam Company Limited,512
-AS131378,Cloud Viet Technology Company Limited,512
-AS135986,Turbo Technology Solution Joint Stock Company,512
-AS135988,Sun Group Corporation,512
-AS135991,Green Network Solutions LTD.,512
-AS131130,MB securities joint stock company,512
-AS135994,IDC Online Technology and Solutions Corporation,512
-AS131387,Sun Life Vietnam Insurance Company Limited,512
-AS135997,Ho Chi Minh Branch,512
-AS135998,International Distribution Corporation,512
-AS38734,ENCAPITAL FINANCIAL TECHNOLOGY JOINT STOCK COMPANY.,512
-AS38245,VIETBRANDS COMPANY LIMITED,512
-AS38251,VNDirect Securities Corporation,512
-AS38252,CAPGEMINI VIETNAM CO.,512
-AS213370,Kreative Multimedia Company Limited,512
-AS140739,USDC TECHNOLOGY JSC,512
-AS140740,HA CUONG TRADING INVESTMENT COMPANY LIMITED,512
-AS135902,Hahalolo Travel Social Network Joint Stock Company,512
-AS45548,Artex Securities Joint Stock Company,512
-AS63739,VIETPN Company Limited,512
-AS135935,Binh Minh Software Service Company Limited,512
-AS55307,Asian Pacific Securitis Joint Stock Company,256
-AS55310,KCS VIETNAM COMPANY LIMITED,256
-AS55312,Golden Dragon Company,256
-AS55316,Hanoi Commercial Joint Stock Bank,256
-AS55319,VietNam Prosperity Joint Stock Commercial Bank,256
-AS131354,Prudential Vietnam Assurance Private limited,256
-AS135962,Dong Duong Securitites Incorporation,256
-AS131355,IGI-,256
-AS55323,Viet Nam Bank for Industry and Trade Securities JSC,256
-AS131356,Pegasus Technology Joint Stock Company,256
-AS55324,Premier Oil Viet Nam Offshore B.V,256
-AS131369,Ministry of Agriculture and Rural Development,256
-AS131122,Vietnam Internet network information center (VNNIC),256
-AS131123,Vietnam Internet network information center (VNNIC),256
-AS131124,Vietnam Bank For Social Policies,256
-AS131125,TVSI-,256
-AS131128,Onepay Online Service and Commercial Joint Stock Company,256
-AS131129,Hochiminh Stock Exchange,256
-AS131394,Cloudovs Vietnam Technology Joint Stock Company,256
-AS45900,The State Bank of Viet Nam,256
-AS45901,Vietnam Export Import Commercial JSC,256
-AS45902,Hai Phong Securities Company,256
-AS56142,BP Exploration Operating Company,256
-AS56144,AIA Life Insurance Company limited,256
-AS56157,One Vision Investment Trading Service Corporation,256
-AS131433,Corporation Technology Development Eposi,256
-AS24174,Dong A Commercial Join Stock Bank,256
-AS131440,Nguyen Bao Digital Company Limited,256
-AS24035,MOFA,256
-AS135910,INTELLIGENCE INFORMATION SYSTEM CO,256
-AS135912,VNETWORK Joint Stock Company,256
-AS45550,NGT-AS-VN New Generations Telecommunications Corporation,256
-AS45551,HEINEKEN VIETNAM BREWERY LIMITED COMPANY,256
-AS45556,Scancom Vietnam Ltd,256
-AS63736,Nam A Commercial Joint Stock Bank,256
-AS63743,VietNam payment solution joint stock company,256
-AS63745,NTT VietNam Communication Company Limited,0
-AS135941,PLAY17-AS-VN Play 17 Vietnam Company Limited,0
-AS63750,18 Nguyen Du,0
-AS135948,S-Trading Company Limited,0
-AS135950,Binh Duong E-Government Information Center,0
-AS131346,FLYCLOUD Company Limited,0
-AS135954,Five9 Vietnam Corporation,0
-AS55314,NEWLIFE COMPANY,0
-AS63763,VCCORP-,0
-AS131350,Dak Nong Department of Information and Communications,0
-AS24087,VIETBRANDS COMPANY LIMITED,0
-AS135960,HADONGSTORAGE-AS-VN Ha Dong Storage Joint Stock Company,0
-AS55320,KNODE TECHNOLOGY COMPANY LIMITED,0
-AS55321,Saigontourist securities corporation,0
-AS135965,VNPT Group,0
-AS135966,Edutop64 Training Development and Investment Corporation,0
-AS131359,ACB Securities Co. Ltd,0
-AS135968,Early Start Joint Stock Company,0
-AS135975,Sea Gem Company Limited,0
-AS135976,CLO Technology Limited Company,0
-AS131370,NETNAM Company,0
-AS135983,Tino Group Joint Stock Company,0
-AS135984,Tinomail Company Limited,0
-AS135987,Reload Company Limited,0
-AS135989,Tay Ninh Department of Information and Communications,0
-AS131382,ETRUSTCLOUD Company,0
-AS135990,Everest Global Joint Stock Company,0
-AS131384,Viet Solutions Services Trading Company Limited,0
-AS135992,Vietnam Directorate of Market Surveillance,0
-AS135993,IPTP Networks Company Limited,0
-AS131131,SHB Securities Joint Stock Company (SHBS),0
-AS135995,TLINKVN Technology Connection Joint Stock Company,0
-AS135996,Be Group Joint Stock Company,0
-AS135999,ITCPLUS Vietnam Joint Stock Company,0
-AS131393,Minh Phat Telecomunication service Company Limited,0
-AS131395,Van phong dieu phoi Chuong trinh muc tieu quoc gia,0
-AS38725,HOPTHANH-AS-VN Hop Thanh JSC,0
-AS131399,AI-Solutions Company Limited,0
-AS45895,Mobifone Global JSC,0
-AS131400,Global Data Joint Stock Company,0
-AS38728,--MISSING--,0
-AS38729,Kien Cuong International JSC,0
-AS45897,Mobifone Global JSC,0
-AS45898,VNPT Corp,0
-AS131406,CTC Media Technology Apply Joint Stock Company,0
-AS56143,VDATA-,0
-AS131409,ACT Telecomunication Joint Stock Company,0
-AS56145,Thanh Nien Net Telecom JSC,0
-AS131411,VietNamNet,0
-AS38739,Vietnam Internet network information center (VNNIC),0
-AS131416,Cloudone Technology Company Limited,0
-AS56152,BStar Joint Stock Company,0
-AS56154,THEGIOISO-,0
-AS23899,Vietnam Internet network information center (VNNIC),0
-AS131420,HaNoi (BIS HANOI),0
-AS56156,Vietnam Internet Network Information Center,0
-AS131422,Emobi games jsc,0
-AS131424,Online Solution Company Limited,0
-AS56160,VIETNIX Solution and Technology Joint Stock Company,0
-AS38246,CDMA Mobile Phone Center S-Telecom,0
-AS131431,Vietnam Cooperation Alliance,0
-AS131432,Cyber Link Service Trading Corporation,0
-AS23914,OCI-AS-VN One-Connection Internet Company,0
-AS38250,VSERVER EQUIPMENT TECHNOLOGY COMPANY LIMITED,0
-AS131436,VSS-,0
-AS38253,Hanoi Telecom JSC,0
-AS24176,Branch of Netnam Company in Ho Chi Minh City,0
-AS131441,May Chu Viet Company Limited,0
-AS24177,iNET Media Company Ltd,0
-AS38010,ETRO-VN-AS-AP METRO-nom GmbH,0
-AS23707,Internet Systems Consortium,0
-AS140737,Viva social network Joint Stock Company,0
-AS140738,VESNET JOINT STOCK COMPANY,0
-AS140741,DTH VIET NAM TELECOMMUNICATION TECHNOLOGY COMPANY LIMITED,0
-AS140742,Asia Soft Co.,0
-AS140743,HUNG CUONG DIGITAL TECHNOLOGY CO.,0
-AS140744,Hanoi Technology and Equipment Joint Stock Company,0
-AS135901,Phuong Dong technology solution company limited,0
-AS135903,FFC joint stock company,0
-AS135904,VINID PAY JOINT STOCK COMPANY,0
-AS135906,Nhat Tien Chung Telecommunication Informatics Company Limited,0
-AS135907,VI NA Host Co.,0
-AS45545,Sai Gon Telecommunication and Technology Corp,0
-AS135914,Quang Trung Software City Development Company,0
-AS45549,Hiep Nhat Company Limited,0
-AS45553,VNNIC,0
-AS24050,Internet Systems Consortium,0
-AS45554,Vietnam Internet network information center (VNNIC),0
-AS45555,Capital Securities Company,0
-AS135928,Digital Convergence Technology Solutions Company Limited,0
-AS63737,VietServer Services technology company limited,0
-AS135930,Representative office of Ligh technology viet joint stock company,0
-AS63738,GLTEC-,0
-AS135931,Committee for ethnic minorities affairs,0
-AS135933,Bac A Commercial Joint Stock Bank,0
+ASN,Name,Country,Number of IPs,Type
+AS45899,VNPT Corp,vn,7687424,isp
+AS7552,Viettel Group,vn,5449728,isp
+AS18403,FPT Telecom Company,vn,1420544,isp
+AS24086,Viettel Corporation,vn,484608,isp
+AS45543,SaiGon Tourist cable Televition Company,vn,196608,isp
+AS135905,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP,vn,139264,isp
+AS7602,Sai gon Postel Corporation,vn,124928,isp
+AS45903,CMC Telecom Infrastructure Company,vn,86784,isp
+AS24173,Netnam Company,vn,64512,isp
+AS131429,MOBIFONE Corporation,vn,52480,isp
+AS38244,VNG Corporation,vn,36864,hosting
+AS24085,Quang Trung Software City Development Company,vn,33280,hosting
+AS38735,Global Data Service Joint Stock Company,vn,32768,business
+AS135918,VIET DIGITAL TECHNOLOGY LIABILITY COMPANY,vn,25600,hosting
+AS38731,Vietel - CHT Compamy Ltd,vn,22528,hosting
+AS38726,VTC DIGICOM,vn,20480,isp
+AS7643,Vietnam Posts and Telecommunications (VNPT),vn,20224,isp
+AS63737,VIETSERVER SERVICES TECHNOLOGY COMPANY LIMITED,vn,19456,isp
+AS131392,GMO-Z.com Runsystem Joint Stock Company,vn,19456,hosting
+AS150698,VCORE,vn,19200,isp
+AS24088,Hanoi Telecom Joint Stock Company - HCMC Branch,vn,18944,isp
+AS24176,Branch of Netnam Company in Ho Chi Minh City,vn,18432,isp
+AS45538,ODS Joint Stock Company,vn,15104,hosting
+AS140815,HTTVSERVER TECHNOLOGY COMPANY LIMITED,vn,14848,isp
+AS45544,SUPERDATA-VN,vn,14336,hosting
+AS38248,VTC-VN,vn,14336,business
+AS140766,FPT Telecom Company,vn,12800,isp
+AS135967,Bach Kim Network solutions Join stock company,vn,11520,hosting
+AS38247,Vietnamobile Telecommunications Joint Stock Company,vn,9984,isp
+AS140822,ANPHATIDC,vn,9728,isp
+AS38732,CMC Telecom Infrastructure Company,vn,9472,isp
+AS135944,VinhNam Commercial informatics service corporation,vn,9216,hosting
+AS45896,Mobifone Global JSC,vn,8704,isp
+AS140810,Megacore Technology Company Limited,vn,8704,hosting
+AS135951,Webico Company Limited,vn,8704,hosting
+AS38733,CMC Telecom Infrastructure Company,vn,8448,isp
+AS55322,North Power Company,vn,8192,business
+AS131353,NhanHoa Software company,vn,8192,hosting
+AS45894,FPT Online JSC,vn,7680,isp
+AS55313,Hanel Communication JSC,vn,7168,hosting
+AS45557,Vietnam Technology and Telecommunication JSC,vn,7168,isp
+AS131386,Long Van System Solution JSC,vn,7168,hosting
+AS135983,Tino Group Joint Stock Company,vn,6912,hosting
+AS140825,Thien Quang Digital technology joint stock company,vn,6144,hosting
+AS56150,Viet Solutions Services Trading Company Limited,vn,5632,hosting
+AS63760,AZDIGI Corporation,vn,5120,hosting
+AS140807,Nguyen Ngoc Thanh Trading Limited Company,vn,5120,isp
+AS131423,Branch of Long Van System Solution JSC - Hanoi,vn,5120,hosting
+AS135987,Reload Company Limited,vn,4608,hosting
+AS131428,Rainbow E-Commerce Company Limited,vn,4608,hosting
+AS131127,Global Telecom Corp,vn,4352,isp
+AS63747,Central Post and Telecommunication (CPT),vn,4096,government
+AS55309,Minh Tu Telecom Limited Company,vn,4096,isp
+AS45542,VietNam National University Ha Noi,vn,4096,education
+AS24175,National Agency for Scientific and Technological Information,vn,4096,government
+AS140803,HQDATA,vn,4096,isp
+AS131414,Long Van Soft Solution JSC,vn,4096,hosting
+AS131349,Digital telecomminication service joint stock,vn,4096,isp
+AS151872,CLOUD DATA TECHNOLOGY AND COMMUNICATION COMPANY LIMITED,vn,3840,isp
+AS63765,HOSTVN Technology Solutions Joint Stock Company,vn,3584,hosting
+AS63741,DCNET TELECOM,vn,3584,isp
+AS63731,TIEN PHAT TECHNOLOGY CORPORATION,vn,3584,business
+AS150862,VPSTTT COMPUTER COMPANY LIMITED,vn,3584,hosting
+AS135932,Viet Storage Technology Joint Stock Company,vn,3584,hosting
+AS38253,Hanoi Telecom JSC,vn,3072,isp
+AS149089,CLOUDFLY CORPORATION,vn,3072,hosting
+AS149078,VPSMMO TECHNOLOGY COMPANY LIMITED,vn,3072,hosting
+AS140832,"Vietnam F Tech., JSC",vn,3072,hosting
+AS135942,Adsota Corporation,vn,3072,hosting
+AS135921,Maxserver Company Limited,vn,3072,business
+AS135901,Phuong Dong technology solution company limited,vn,3072,hosting
+AS216414,TRUMVPS Company Limited,vn,2816,isp
+AS63730,VNSO TECHNOLOGY COMPANY,vn,2560,hosting
+AS150820,LIENVPS TECHNOLOGY COMPANY LIMITED,vn,2560,isp
+AS149137,TAN THANH AN INTERNATIONAL TRADE DEVELOPMENT COMPANY LIMITED,vn,2560,isp
+AS63766,VEGAGAME-VN,vn,2304,business
+AS131435,Vietnam Esports and Entertainment Joint Stock Company,vn,2304,isp
+AS63733,VIETNAM LEAGUE OF LEGENDS,vn,2048,business
+AS56155,Tuong Minh service private enterprise,vn,2048,business
+AS56149,Cong ty CP Truyen thong quoc te Incom,vn,2048,business
+AS56147,Creative Communication Vietnam Joint Stock Company,vn,2048,business
+AS56141,Danang ICT Infrastructure Development Center,vn,2048,government
+AS45552,DTS Telecom Company Limited,vn,2048,isp
+AS45546,Gtel Mobile Joint Stock Company,vn,2048,business
+AS38738,"L.C.S Company.,ltd",vn,2048,business
+AS24066,Vietnam Internet Network Information Center,vn,2048,business
+AS23902,Vietnam Internet network information center (VNNIC),vn,2048,business
+AS151858,INTERDIGI JOINT STOCK COMPANY,vn,2048,isp
+AS135916,KIENPHONGITS,vn,2048,business
+AS135915,TLSOFT,vn,2048,hosting
+AS131427,AOHOAVIET-VN,vn,2048,hosting
+AS131418,Vietnam Esports Development Joint Stock Company,vn,2048,isp
+AS131410,Vietnam Television Cable Corporation One Member Company Limited,vn,2048,business
+AS131406,CTC Media Technology Apply Joint Stock Company,vn,2048,business
+AS131402,FPT Software Company limited,vn,2048,business
+AS131388,VIET NAM HT GROUP JOINT STOCK COMPANY,vn,2048,business
+AS131367,Viet Online trading service corporation,vn,2048,business
+AS131366,Lanit Technology and Communication Joint Stock Company,vn,2048,hosting
+AS55320,KNODE TECHNOLOGY COMPANY LIMITED,vn,1792,hosting
+AS56146,Global informatics solution corporation,vn,1536,business
+AS202602,365 Online Technology Joint Stock Company,vn,1536,hosting
+AS150828,VMON CLOUD COMPANY LIMITED,vn,1536,hosting
+AS149147,GOFIBER SOFTWARE TECHNOLOGY COMPANY LIMITED,vn,1536,hosting
+AS149117,VTC MOBILE SERVICES JOINT STOCK COMPANY,vn,1536,business
+AS140817,ODS ONLINE DATA SOLUTION JOINT STOCK COMPANY,vn,1536,hosting
+AS140775,GLOBAL INFORMATICS TELECOMMUNICATIONS JOINT STOCK COMPANY,vn,1536,isp
+AS140770,Digilife Vietnam Digital Services Company Limited,vn,1536,business
+AS131396,Rmit International University Vietnam,vn,1536,education
+AS131374,Hong Quang Trading Investment  Company Limited,vn,1536,business
+AS151863,PSG JOINT STOCK COMPANY,vn,1280,business
+AS135920,Ehost software company limited,vn,1280,hosting
+AS63769,Information and Communication Technology Center of Bac Kan Province,vn,1024,government
+AS63768,Thien Binh Software Service Company Limited,vn,1024,business
+AS63767,GCAFE,vn,1024,business
+AS63764,INCOM SAI GON JOINT STOCK COMPANY,vn,1024,business
+AS63762,VietNam Booking corporation,vn,1024,business
+AS63759,TaDu Joint Stock Company,vn,1024,hosting
+AS63758,VETC Corporation,vn,1024,business
+AS63755,VietNam - Russia joint venture bank,vn,1024,business
+AS63754,VMG MEDIA JOINT STOCK COMPANY,vn,1024,business
+AS63752,Hoa Binh Department of Information and Communications,vn,1024,government
+AS63751,Vietcombank securities Company limited,vn,1024,business
+AS63749,Luxoft VietNam Company LTD,vn,1024,business
+AS63748,Cuc An Toan Thong Tin- Bo Thong tin va Truyen thong,vn,1024,government
+AS63746,Institute of Information Technology (IOIT),vn,1024,education
+AS63744,DAINAM Securities Company,vn,1024,business
+AS63742,BIDV Securities joint stock company,vn,1024,business
+AS63740,TOCDOSOVN-VN,vn,1024,hosting
+AS63739,VIETPN Company Limited,vn,1024,isp
+AS63735,Hoatoc company limited,vn,1024,business
+AS63734,365 Online technology joint stock company,vn,1024,hosting
+AS63732,GALAXY PLAY JOINT STOCK COMPANY,vn,1024,business
+AS56159,Sai Gon Join stock commercial Bank,vn,1024,business
+AS56158,Digital world data online company,vn,1024,hosting
+AS56156,Vietnam Internet Network Information Center,vn,1024,business
+AS56148,Pertrovietnam finance joint stock corporation,vn,1024,business
+AS55308,Center for Information Technology and Digital Transformation-Ministry of Planning and Investment,vn,1024,government
+AS55306,Vietnam bank for Agriculture anh Rural Development,vn,1024,business
+AS55305,ODS Joint Stock Company,vn,1024,hosting
+AS45541,Information Technology Center - Joint Stock Commercial Bank for Investment and Development of Vietnam,vn,1024,business
+AS38739,Vietnam Internet network information center (VNNIC),vn,1024,business
+AS38737,Vietnam Internet network information center (VNNIC),vn,1024,business
+AS38736,Vietnam Internet network information center (VNNIC),vn,1024,business
+AS38730,VIETINBANK-VN,vn,1024,business
+AS38727,HaNoi University of science and technology,vn,1024,education
+AS38249,KIS Viet Nam Securities Corporations,vn,1024,business
+AS24089,Vietnam Internet Network Information Center,vn,1024,business
+AS23962,Vietnam Internet Network Information Center,vn,1024,business
+AS23899,Vietnam Internet network information center (VNNIC),vn,1024,business
+AS151865,"ZENTECH Technology Solutions Co., Ltd",vn,1024,business
+AS150869,National Citizen Commercial Joint stock bank,vn,1024,business
+AS150861,POWERNET COMPANY LIMITED,vn,1024,hosting
+AS150855,MAY SOC COMPANY LIMITED,vn,1024,business
+AS150819,ALGOGLOBAL COMPANY LIMITED,vn,1024,business
+AS149161,MEGA TECHNOLOGY COMPANY LIMITED,vn,1024,hosting
+AS149148,"Phu Hai Computer Co., Ltd",vn,1024,business
+AS149139,VGP JOINT STOCK COMPANY,vn,1024,business
+AS149132,GREENCLOUD LIMITED LIABILITY COMPANY,vn,1024,hosting
+AS149129,Vietnam Government Portal,vn,1024,government
+AS149068,iNET software one member company limited,vn,1024,hosting
+AS140827,AZ VIET NAM COMMUNICATIONS TECHNOLOGY COMPANY LIMITED,vn,1024,hosting
+AS140813,DIGITAL SOLUTION AND TELECOMMUNICATIONS SERVICE JOINT STOCK COMPANY,vn,1024,isp
+AS140799,VIET NAM CLOUD TECHNOLOGY JOINT STOCK COMPANY,vn,1024,business
+AS135964,RVC Rong Viet Trade Service Telecom Company Limited,vn,1024,isp
+AS135963,Information Center - Ministry of Labour - Invalids and Social Affairs,vn,1024,government
+AS135961,Viet Nam Data Online Joint Stock Company,vn,1024,hosting
+AS135959,Onebim Vietnam Limited Company,vn,1024,business
+AS135958,Teko Vietnam Technology Joint Stock Company,vn,1024,business
+AS135956,The Authority of Information Technology - Ministry of Health,vn,1024,government
+AS135955,Data integration and digital transformation center of Lam Dong province,vn,1024,government
+AS135953,Vietnam Online Network Solution Joint Stock Compnay,vn,1024,hosting
+AS135952,VPS Securities Joint Stock Company,vn,1024,business
+AS135949,Cloudfone Viet Nam Joint Stock Company,vn,1024,business
+AS135946,Long An Department of Information and Communications,vn,1024,government
+AS135945,VTC Online Joint Stock Company,vn,1024,business
+AS135943,"Truong Minh Thinh Online Trading And Service Co., Ltd",vn,1024,business
+AS135939,VNPT Electronic Payment Joint Stock Company,vn,1024,business
+AS135938,Home Credit Viet nam Finance Company Limited,vn,1024,business
+AS135936,LABO A&B Joint Stock Company,vn,1024,business
+AS135935,Binh Minh Software Service Company Limited,vn,1024,business
+AS135934,ICT Center - Dong Thap Department of Information and Communications,vn,1024,government
+AS135933,Bac A Commercial Joint Stock Bank,vn,1024,business
+AS135929,International Education Corporation,vn,1024,education
+AS135927,Phu Quoc Petroleum Operating Company,vn,1024,business
+AS135926,Phu Nhuan Jewelry Joint Stock Company,vn,1024,business
+AS135925,"16 Au Co, Tan Son Nhi Ward, Tan Phu District, Ho Chi Minh city (EVNSPC Building)",vn,1024,business
+AS135924,FWD Vietnam Life Insurance Company Limited,vn,1024,business
+AS135923,SCTV INFRASTRUCTURE BUSINESS INVESMENT COMPANY LIMITED,vn,1024,business
+AS135922,Clearsky Service Solutions Company Limited,vn,1024,business
+AS135919,MB SHINSEI Finance Limited Liability Company,vn,1024,business
+AS135917,Cong ty TNHH Web Panda,vn,1024,hosting
+AS135913,MB Ages life insurance company limited,vn,1024,business
+AS135911,VietNam maritime commercial joint stock bank,vn,1024,business
+AS135909,Information Technology Park - Vietnam National University Ho Chi Minh City,vn,1024,education
+AS135908,ECONET VIETNAM CORPORATION,vn,1024,business
+AS135902,Hahalolo Travel Social Network Joint Stock Company,vn,1024,business
+AS135900,HaNoi State data center,vn,1024,government
+AS131440,Nguyen Bao Digital Company Limited,vn,1024,business
+AS131439,VietNam credit information joint stock company,vn,1024,business
+AS131438,VIETNAM POST,vn,1024,business
+AS131436,Information Technology Center - Vietnam Social Security,vn,1024,government
+AS131434,Scom Technology Join stock company,vn,1024,business
+AS131430,Bao Viet bank,vn,1024,business
+AS131426,MISA-VN,vn,1024,business
+AS131425,The gioi di dong jsc,vn,1024,business
+AS131421,"Intercom Telecom., JSC",vn,1024,isp
+AS131419,NATIONAL PAYMENT CORPORATION OF VIET NAM,vn,1024,business
+AS131415,Vietnam Internet network information center (VNNIC),vn,1024,business
+AS131413,VINGROUP JOINT STOCK COMPANY,vn,1024,business
+AS131412,State Audit Office of Vietnam,vn,1024,government
+AS131411,VietNamNet,vn,1024,business
+AS131408,TPBANK-VN,vn,1024,business
+AS131407,Sai Gon CTT,vn,1024,business
+AS131405,Saigon Newport,vn,1024,business
+AS131404,Masters Technology Corporation,vn,1024,hosting
+AS131403,ICSOFT Joint Stock Company,vn,1024,business
+AS131401,Department of Information and Communication of Vinh Phuc,vn,1024,government
+AS131398,Lotte Data Communication Company Limited,vn,1024,business
+AS131397,Hanoi Medical University,vn,1024,education
+AS131391,Vietnam-Asia Commercial Joint Stock Bank,vn,1024,business
+AS131390,Vietnam E-commerce Development Centre,vn,1024,business
+AS131385,VTV-VN,vn,1024,business
+AS131382,CFOX TECH COMPANY LIMITED,vn,1024,business
+AS131381,Customs IT and Statistics Department - General Department of Vietnam Customs,vn,1024,government
+AS131380,Niteco VN,vn,1024,business
+AS131379,Ocean Commercial Joint Stock Bank,vn,1024,business
+AS131378,Cloud Viet Technology Company Limited,vn,1024,hosting
+AS131375,Trung tam Thong tin Bo TT & TT,vn,1024,government
+AS131373,Information Center - Ministry of Science and Technology,vn,1024,government
+AS131372,VIVAS-VN,vn,1024,business
+AS131371,BaoMinh securities company,vn,1024,business
+AS131368,Petro Viet Nam Oil Corporation,vn,1024,business
+AS131365,Department Of Information Technology and Data of Natural Resources and Environment,vn,1024,government
+AS131364,Military commercial join stock bank,vn,1024,business
+AS131363,Department of Information Technology - General Department of Taxation,vn,1024,government
+AS131360,NATIONAL PAYMENT CORPORATION OF VIET NAM,vn,1024,business
+AS131358,Telehouse international corporation of vietnam,vn,1024,business
+AS131357,Duy Tan University,vn,1024,education
+AS131352,Vietnam Cybersecurity Emergency Response Teams/Coordination Center,vn,1024,business
+AS131351,Orient commercial joint stock bank,vn,1024,business
+AS131348,Joint stock Commercial Bank for Foreign Trade of Viet Nam,vn,1024,business
+AS131343,Vietnam Internationl commercial joint stock bank,vn,1024,business
+AS131342,Vietnam Technological and Commercial Joint-stock Bank - Techcombank,vn,1024,business
+AS131126,Vietnam Airlines Corp,vn,1024,business
+AS63756,VSTV-VN,vn,768,business
+AS63743,VietNam payment solution joint stock company,vn,768,business
+AS56153,Digital Storage Company Limited,vn,768,hosting
+AS55319,VietNam Prosperity Joint Stock Commercial Bank,vn,768,business
+AS55311,LienViet Post Joint stock Commercial Bank,vn,768,business
+AS23999,Vietnam News Agency,vn,768,business
+AS150900,VPSMMO COMPANY LIMITED,vn,768,business
+AS135990,Everest Global Joint Stock Company,vn,768,business
+AS135957,Thua Thien Hue Electronic Data and Digital Information Center,vn,768,government
+AS135947,Shopee Company Limited,vn,768,business
+AS135912,VNETWORK Joint Stock Company,vn,768,business
+AS131389,SeABank,vn,768,business
+AS131383,PVI Holdings,vn,768,business
+AS63763,VCCORP-VN,vn,512,business
+AS63753,Viet Nam Lottery One Member Company Limited,vn,512,business
+AS63736,Nam A Commercial Joint Stock Bank,vn,512,business
+AS56144,AIA Life Insurance Company limited,vn,512,business
+AS55318,Asia Commercial Bank,vn,512,business
+AS55317,"170 Hai Ba Trung, DaKao Ward, District 1, Hochiminh City",vn,512,business
+AS55316,Saigon - Hanoi Commercial Joint Stock Bank,vn,512,business
+AS55315,SSI Securities Incorporation,vn,512,business
+AS45553,BAO VIET HOLDINGS INFORMATION TECHNOLOGY CENTER BRANCH,vn,512,business
+AS45548,Artex Securities Joint Stock Company,vn,512,business
+AS38734,ENCAPITAL FINANCIAL TECHNOLOGY JOINT STOCK COMPANY.,vn,512,business
+AS38251,VNDirect Securities Corporation,vn,512,business
+AS151933,HOA FRUITS LLC,vn,512,business
+AS151932,Tan VPS Company Limited,vn,512,business
+AS151931,Cloud Era LLC,vn,512,isp
+AS151923,BC CARD Vietnam Company Limited,vn,512,business
+AS151921,"DIGI GROUP CO.,LTD",vn,512,business
+AS151918,VPS PA Company Limited,vn,512,isp
+AS151917,Jupiter Media Joint Stock Company,vn,512,business
+AS151913,Ha Giang province Department of Information and Communications,vn,512,government
+AS151911,VERICHAINS LIMITED,vn,512,business
+AS151903,Department of Information and Communications of Quang Binh,vn,512,government
+AS151901,HAO QUANG VIET SOFTWARE COMPANY LIMITED,vn,512,business
+AS151893,DIGI SUCCESS SERVICE COMPANY LIMITED,vn,512,business
+AS151885,DATA SECURITY SOLUTIONS LIMITED,vn,512,isp
+AS151873,TOTHOST SOLUTIONS AND TECHNOLOGIES COMPANY LIMITED,vn,512,hosting
+AS151870,Department of Radio Frequency - Ministry of Information and Communications,vn,512,government
+AS151867,DEPARTMENT OF INFORMATION AND COMMUNICATION OF BINH PHUOC PROVINCE,vn,512,government
+AS151857,NIVA GROUP JONT STOCK COMPANY,vn,512,business
+AS151855,SOUTH TELECOMMUNICATIONS SOFTWARE JOINT STOCK COMPANY,vn,512,isp
+AS151853,GIZA NETWORK LIMITED,vn,512,business
+AS151852,FUTE JOINT STOCK COMPANY,vn,512,business
+AS150912,TEKAWAY LIMITED COMPANY,vn,512,business
+AS150911,LE BAO TECHNOLOGY COMPANY LIMITED,vn,512,business
+AS150909,BTT TECHNOLOGY SERVICES COMPANY LIMITED,vn,512,hosting
+AS150905,CENTRAL ELECTRICITY INFORMATION TECHNOLOGY COMPANY - CENTRAL REGIONAL ELECTRICITY CORPORATION,vn,512,business
+AS150904,QTTP TECHNOLOGY COMPANY LIMITED,vn,512,business
+AS150897,AZPLAY TECHNOLOGY COMPANY LIMITED,vn,512,hosting
+AS150896,HUNGCLOUD COMPANY LIMITED,vn,512,business
+AS150895,EZ TECHNOLOGY COMPANY LIMITED,vn,512,business
+AS150894,SON NGUYEN GROUP CORPORATION,vn,512,business
+AS150892,GOLD VPS LIMITED,vn,512,hosting
+AS150890,VETC ELECTRONIC TOLL COLLECTION COMPANY LIMITED,vn,512,business
+AS150888,"CENTER FOR INFORMATION AND COMMUNICATION TECHNOLOGY, Thai Nguyen Department of Information and Communications",vn,512,government
+AS150887,"NGOC HA TECHNOLOGY SERVICES CO., LTD",vn,512,business
+AS150884,NEWVINA INVESTMENT JOINT STOCK COMPANY,vn,512,business
+AS150882,XKA TECHNOLOGY MTV COMPANY LIMITED,vn,512,business
+AS150881,INTERSTELLAR DIGITAL TECHNOLOGY COMPANY LIMITED,vn,512,business
+AS150880,FAST BYTE FAST DATA COMPANY LIMITED,vn,512,hosting
+AS150875,XOR BPO JOINT STOCK COMPANY,vn,512,business
+AS150873,THUONGCLOUD COMPANY LIMITED,vn,512,business
+AS150870,"KIM NGAN TECHNOLOGY TRADING SERVICES CO., LTD",vn,512,business
+AS150867,LP TECHNOLOGY ELECTRONIC COMMERCE COMPANY LIMITED,vn,512,hosting
+AS150866,FINTECH VIETNAM CREDIT INFORMATION JOINT STOCK COMPANY,vn,512,business
+AS150860,"JETCLOUD TECHNOLOGY CO., LTD",vn,512,business
+AS150857,JB SECURITIES VIETNAM COMPANY LIMITED,vn,512,business
+AS150856,"VNG DATA CENTER CO., LTD",vn,512,business
+AS150854,DIGINEXT DIGITAL TECHNOLOGY JOINT STOCK COMPANY,vn,512,business
+AS150850,ZINVPS COMPANY LIMITED,vn,512,business
+AS150847,DIGITAL SERVER COMPANY LIMITED,vn,512,business
+AS150846,AXYS-VN,vn,512,business
+AS150838,HA SON TECHNOLOGY ONE MEMBER LIMITED COMPANY,vn,512,business
+AS150837,SAOVANG TELECOMMUNICATION INFRASTRUCTURE JOINT STOCK COMPANY,vn,512,isp
+AS150836,EPAY SERVICES JOINT STOCK COMPANY,vn,512,business
+AS150835,MAY CHU SAI GON SERVICE TRADING COMPANY LIMITED,vn,512,business
+AS150834,IDATA TECHNOLOGY SOLUTIONS COMPANY LIMITED,vn,512,hosting
+AS150830,CHIEU MINH COMPANY LIMITED,vn,512,business
+AS150825,CODETAY SOFTWARE LIMITED LIABILITY COMPANY,vn,512,hosting
+AS150823,FAST SOFTWARE JOINT STOCK COMPANY,vn,512,business
+AS150821,HD TECHNICAL INFRASTRUCTURE CONSTRUCTION COMPANY LIMITED,vn,512,business
+AS150813,Thoi MMO Company Limited,vn,512,business
+AS150727,"VMON CO., LTD",vn,512,business
+AS149160,Soc Trang Department of Information and Communications,vn,512,government
+AS149159,Viet Nam Academy of Science and Technology,vn,512,education
+AS149157,Information and Communication Technology Center of Kien Giang,vn,512,government
+AS149154,Yen Bai Department of Information and Communications,vn,512,government
+AS149151,VNSUN CLOUD COMPANY LIMITED,vn,512,isp
+AS149150,THDATA COMPANY LIMITED,vn,512,isp
+AS149149,INTER BOOKING247 LIMITED COMPANY,vn,512,business
+AS149143,MONA MEDIA COMPANY,vn,512,business
+AS149142,Vina Securities Joint Stock Company,vn,512,business
+AS149138,"RUBIK Trading Consultancy Service One Member Co., Ltd",vn,512,business
+AS149136,AALO.VN DIGITAL TECHNOLOGY JOINT STOCK COMPANY,vn,512,business
+AS149135,SAPO TECHNOLOGY JOINT STOCK COMPANY,vn,512,business
+AS149134,FUTE COMMERCIAL AND SERVICES COMPANY LIMITED,vn,512,hosting
+AS149131,SOC LUA COMPANY LIMITED,vn,512,business
+AS149130,TEKNIX CLOUD TECHNOLOGY INFRASTRUCTURE JOINT STOCK COMPANY,vn,512,business
+AS149128,PETROLIMEX GROUP COMMERCIAL JOINT STOCK BANK,vn,512,business
+AS149127,Bac Giang Department of Information and Communications,vn,512,government
+AS149125,4S TECHNOLOGY TRADING SERVICES COMPANY LIMITED,vn,512,business
+AS149124,THANH PHAT TECHNOLOGY AND CONSTRUCTION LIMITED COMPANY,vn,512,hosting
+AS149123,VU GIA TECHNOLOGY INVESTMENT JOINT STOCK COMPANY,vn,512,business
+AS149120,BLUE TECHNOLOGY AND INVESTMENT COMPANY LIMITED,vn,512,business
+AS149118,3S Viet Nam Technology Joint Stock Company,vn,512,business
+AS149116,National Hospital of Tropical Diseases,vn,512,business
+AS149109,GIAO HANG TIET KIEM JOINT STOCK COMPANY,vn,512,business
+AS149107,TRUMVPS COMPANY LIMITED,vn,512,hosting
+AS149105,IPTP NETWORKS DA NANG COMPANY LIMITED,vn,512,business
+AS149102,KHANH CHI ICT COMPANY LIMITED,vn,512,isp
+AS149101,BKCLOUD COMPANY LIMITED,vn,512,isp
+AS149100,SMARTMIND SECURITIES JOINT STOCK COMPANY,vn,512,business
+AS149098,VIETNAM DIGITAL INFRASTRUCTURE JOINT STOCK COMPANY,vn,512,business
+AS149096,INVESTMENT AND DEVELOPMENT OF NATIONAL E-PROCUREMENT SYSTEM COMPANY LIMITED,vn,512,business
+AS149094,THM REFRIGERATION TECHNICIANS COMPANY LIMITED,vn,512,hosting
+AS149085,E-DATA TECHNOLOGY SERVICE COMPANY LIMITED,vn,512,business
+AS149080,"SHINHAN LIFE VIETNAM INSURANCE CO., LTD",vn,512,business
+AS149079,CUONG KHANG INFORMATICS COMPANY LIMITED,vn,512,isp
+AS149077,Yen Viet Tourist Company Limited,vn,512,business
+AS149076,"Cloud Computing Server Solutions Co., Ltd",vn,512,isp
+AS149074,University of Medicine and Pharmacy at Ho Chi Minh City,vn,512,education
+AS149069,Information and Communications Technology  Company of Vietnam Electricity,vn,512,business
+AS149065,MT GROUP COMPANY LIMITED,vn,512,isp
+AS149063,Information center - Ministry of Construction,vn,512,government
+AS149062,TECHNOLOGY SOLUTION DATA ONLINE COMPANY LIMITED,vn,512,isp
+AS140834,SAIGON TRAVEL SERVICE TRADING JOINT STOCK COMPANY,vn,512,hosting
+AS140833,INTERDATA JOINT STOCK COMPANY,vn,512,hosting
+AS140831,Data Center of Vietnam National University Ho Chi Minh City,vn,512,education
+AS140830,IDS VIET NAM SOLUTION CORPORATION,vn,512,business
+AS140829,"VMTK . Trading Investment CO., LTD",vn,512,business
+AS140826,INTER GROUP VIET NAM JOINT STOCK COMPANY,vn,512,hosting
+AS140824,VNIDC TECHNOLOGY COMPANY LIMITED,vn,512,business
+AS140823,"Group 7, THieu Khanh Ward, Thanh Hoa City, Thanh Hoa, Viet Nam",vn,512,isp
+AS140819,HANA,vn,512,hosting
+AS140818,D.I.C Viet Nam Technology Joint Stock Company,vn,512,business
+AS140814,TECHCITYGROUP,vn,512,business
+AS140811,VIET NAM INTERACTIVE TELEVISION JOINT STOCK COMPANY,vn,512,business
+AS140809,MINISTRY OF HOME AFFAIRS OF THE SOCIALIST REPUBLIC OF VIETNAM,vn,512,government
+AS140806,"PVS TELECOM CO.LTD.,",vn,512,isp
+AS140804,JOBKEY JOINT STOCK COMPANY,vn,512,hosting
+AS140801,HARAVAN TECHNOLOGY CORPORATION,vn,512,business
+AS140796,SBDTELECOM,vn,512,isp
+AS140791,BKHOST TECHNOLOGY VIETNAM JOINT STOCK COMPANY,vn,512,hosting
+AS140789,DIGITAL TELECOMMUNICATIONS INFRASTRUCTURE JOINT STOCK COMPANY,vn,512,isp
+AS140787,LAM A ARCHITECTURE CONSTRUCTION COMPANY LIMITED,vn,512,business
+AS140786,Department of Information and Communications of Thai Binh Province,vn,512,government
+AS140781,VIET HOSTING COMPANY LIMITED,vn,512,hosting
+AS140774,VIET NAM UNIFIED COMMUNICATIONS CORPORATION,vn,512,isp
+AS140769,INFORMATICS SOLUTION COMPANY LIMITED,vn,512,business
+AS140768,Binh Dinh Department of Information and Communications,vn,512,government
+AS140765,VINANET Services Joint Stock Company,vn,512,business
+AS140764,CSD Group Technology JSC.,vn,512,business
+AS140762,Vinh Railway Signalling - Telecom Joint Stock Company,vn,512,isp
+AS140761,ALLIEX VIETNAM JOINT STOCK COMPANY,vn,512,business
+AS140760,INFINITY SOFTWARE CORPORATION,vn,512,business
+AS140759,Department of Information and Communications of Dak Lak Province,vn,512,government
+AS140758,Department of Information and Communications of Ca Mau Province,vn,512,business
+AS140757,K2F INFORMATION TECHNOLOGY JOINT STOCK COMPANY,vn,512,business
+AS140751,Information Technology and Communication Center of Binh Thuan Department of Information and Communications,vn,512,government
+AS140750,Network and Services Development Support Center - Viet Nam Telecommunications Authority,vn,512,government
+AS140748,Vinh Long Department of Information and Communications,vn,512,government
+AS140747,Dong Nai Department of Information and Communications,vn,512,government
+AS140745,"VINTEK VIET NAM TECHNOLOGY TELECOM CO.,LTD",vn,512,isp
+AS140742,"Asia Soft Co., Ltd",vn,512,business
+AS140739,USDC TECHNOLOGY JSC,vn,512,business
+AS135998,International Distribution Corporation,vn,512,business
+AS135994,IDC Online Technology and Solutions Corporation,vn,512,hosting
+AS135991,Green Network Solutions LTD.,vn,512,business
+AS135989,Tay Ninh Department of Information and Communications,vn,512,government
+AS135988,Sun Group Corporation,vn,512,business
+AS135986,Turbo Technology Solution Joint Stock Company,vn,512,business
+AS135982,Hoi An South Development Ltd,vn,512,business
+AS135980,Information and Communication Technology Center of Quang Ninh,vn,512,government
+AS135978,Hanoi University of Industry,vn,512,education
+AS135977,Vietnam BDA technology and communication joint stock company,vn,512,business
+AS135973,Bamboo Airways Company Limited,vn,512,business
+AS135972,Quang Nam Department of Information and Communications,vn,512,business
+AS135971,PetroVietNam Securities Joint Stock Company,vn,512,business
+AS135969,Sen Do Technology Joint Stock Company,vn,512,business
+AS135906,BOOKING247 COMPANY LIMITED,vn,512,isp
+AS135904,VINID PAY JOINT STOCK COMPANY,vn,512,business
+AS131422,"Information Technology Center - Ministry of Culture, Sports and Tourism",vn,512,government
+AS131409,ACT Telecomunication Joint Stock Company,vn,512,isp
+AS131387,Sun Life Vietnam Insurance Company Limited,vn,512,business
+AS131376,KB Securities Vietnam Joint Stock Company,vn,512,business
+AS131362,HaNoi Stock Exchange,vn,512,business
+AS131350,Dak Nong Department of Information and Communications,vn,512,government
+AS131347,Shinhan Viet Nam Bank Limited,vn,512,business
+AS131345,KienLong commercial joint stock bank,vn,512,business
+AS131344,TH Food Chain Joint Stock Company,vn,512,business
+AS131130,MB securities joint stock company,vn,512,business
+AS131129,Hochiminh Stock Exchange,vn,512,business
+AS56142,ZARUBEZHNEFT EP VIETNAM B.V.,vn,256,business
+AS55324,Premier Oil Viet Nam Offshore B.V,vn,256,business
+AS55323,Viet Nam Bank for Industry and Trade Securities JSC,vn,256,business
+AS55312,Golden Dragon Company,vn,256,business
+AS55310,KCS VIETNAM COMPANY LIMITED,vn,256,business
+AS55307,Asian Pacific Securitis Joint Stock Company,vn,256,business
+AS45902,Hai Phong Securities Company,vn,256,business
+AS45901,Vietnam Export Import Commercial JSC,vn,256,business
+AS45900,Department of Infomatic - The State Bank of Viet Nam,vn,256,government
+AS45556,Scancom Vietnam Ltd,vn,256,business
+AS45554,Vietnam Internet network information center (VNNIC),vn,256,business
+AS45551,HEINEKEN VIETNAM BREWERY LIMITED COMPANY,vn,256,business
+AS24174,Dong A Commercial Join Stock Bank,vn,256,business
+AS24035,Ministry of Foreign Affairs of Vietnam - MOFA,vn,256,government
+AS151866,DAI HUU SERVICE AND TRADING MECHANICAL COMPANY LIMITED,vn,256,business
+AS150901,NEXTPAY DIGITAL TRANSFORMATION GROUP JOINT STOCK COMPANY,vn,256,business
+AS150872,TECHCLOUD SOLUTION JOINT STOCK COMPANY,vn,256,business
+AS150864,VIET NAM VNNS TECHNOLOGIES JOINT STOCK COMPANY,vn,256,business
+AS150842,VIMEDIMEX GROUP PHARMACY CORPORATION,vn,256,business
+AS150824,Premier Oil Viet Nam Offshore B.V,vn,256,business
+AS149146,"VNETKIWON SECURITY CO., LTD",vn,256,business
+AS149145,VNETWORK TELECOMMUNICATION SERVICES COMPANY LIMITED,vn,256,isp
+AS149099,HUNG THINH GROUP CORPORATION,vn,256,business
+AS135997,EVN Finance Joint Stock Company,vn,256,business
+AS135981,VisualViet Company Limited,vn,256,isp
+AS135974,National Power Transmission Corporation,vn,256,business
+AS135962,AIS Securitites Joint Stock Company,vn,256,business
+AS135948,S-Trading Company Limited,vn,256,business
+AS135910,"INTELLIGENCE INFORMATION SYSTEM CO, LTD",vn,256,business
+AS131417,Vietnam National Coaland Mineral Industries Holding Corporation Limited,vn,256,business
+AS131369,Ministry of Agriculture and Rural Development,vn,256,government
+AS131354,Prudential Vietnam Assurance Private limited,vn,256,business
+AS131131,VNNIC-AS-VN,vn,256,business
+AS131128,Onepay Online Service and Commercial Joint Stock Company,vn,256,business
+AS131125,TVSI-VN,vn,256,business
+AS131124,Vietnam Bank For Social Policies,vn,256,business
+AS131123,Vietnam Internet network information center (VNNIC),vn,256,business
+AS131122,Vietnam Internet network information center (VNNIC),vn,256,business
+AS63761,Cong ty TNHH Dich vu truc tuyen Maxdata,vn,0,inactive
+AS63757,Pacific Technology Development and Communication joint stock company,vn,0,inactive
+AS63750,"18 Nguyen Du, Hai Ba Trung, Hanoi",vn,0,inactive
+AS63745,NTT VietNam Communication Company Limited,vn,0,inactive
+AS63738,GLTEC-VN,vn,0,inactive
+AS56160,VIETNIX Solution and Technology Joint Stock Company,vn,0,inactive
+AS56157,One Vision Investment Trading Service Corporation,vn,0,inactive
+AS56154,THEGIOISO-VN,vn,0,inactive
+AS56152,BStar Joint Stock Company,vn,0,inactive
+AS56151,DigiStar Company Limited,vn,0,inactive
+AS56145,Thanh Nien Net Telecom JSC,vn,0,inactive
+AS56143,VDATA-VN,vn,0,inactive
+AS55511,VLL-AS-AP,vn,0,inactive
+AS55321,Saigontourist securities corporation,vn,0,inactive
+AS55314,NEWLIFE COMPANY,vn,0,inactive
+AS45898,VNPT Corp,vn,0,inactive
+AS45897,Mobifone Global JSC,vn,0,inactive
+AS45895,Mobifone Global JSC,vn,0,inactive
+AS45656,BEELINE-KH,vn,0,inactive
+AS45555,Capital Securities Company,vn,0,inactive
+AS45550,NGT-AS-VN,vn,0,inactive
+AS45549,Hiep Nhat Company Limited,vn,0,inactive
+AS45547,SPT Telecommunications Service Center,vn,0,inactive
+AS45545,Sai Gon Telecommunication and Technology Corp,vn,0,inactive
+AS45539,VTCWLB-VN,vn,0,inactive
+AS45465,FLASHNET-AS-AP,vn,0,inactive
+AS45429,DTV-STAR-KH-AS-AP,vn,0,inactive
+AS38729,Kien Cuong International JSC,vn,0,inactive
+AS38725,Inet software one member company limited,vn,0,inactive
+AS38252,"CAPGEMINI VIETNAM CO., LTD",vn,0,inactive
+AS38250,VSERVER EQUIPMENT TECHNOLOGY COMPANY LIMITED,vn,0,inactive
+AS38246,CDMA Mobile Phone Center S-Telecom,vn,0,inactive
+AS38245,VIETBRANDS COMPANY LIMITED,vn,0,inactive
+AS38010,METRO-nom GmbH,vn,0,inactive
+AS24177,iNET Media Company Ltd,vn,0,inactive
+AS24087,VIETBRANDS COMPANY LIMITED,vn,0,inactive
+AS24050,"Internet Systems Consortium, Inc.",vn,0,inactive
+AS23914,OCI,vn,0,inactive
+AS23707,Internet Systems Consortium,vn,0,inactive
+AS213370,Kreative Multimedia Company Limited,vn,0,inactive
+AS209988,Thi Huyen Tran,vn,0,inactive
+AS206439,Cao Tran Quoc Hoai,vn,0,business
+AS200250,Hoang Phi Hai,vn,0,isp
+AS199830,ta manh trung,vn,0,inactive
+AS199037,Hoang Van Loi,vn,0,inactive
+AS197411,ATECH DIGITAL JSC,vn,0,inactive
+AS151940,TTT Data Encryption and Technology Co. LTD,vn,0,inactive
+AS151939,ASIA TECHNOLOGY COMMUNICATIONS JOINT STOCK COMPANY,vn,0,inactive
+AS151938,CLOUDY One Member LLC,vn,0,inactive
+AS151937,MEKONGNET LLC,vn,0,inactive
+AS151936,ASAP Software Solutions Company Limited,vn,0,inactive
+AS151935,Minh Nhat Paper General Company Limited,vn,0,inactive
+AS151934,Thanh Trang Cloud Computing and Technology Company Limited,vn,0,inactive
+AS151930,Ung Dung Development Technology Company Limited,vn,0,inactive
+AS151929,PRIMITIVE AI LLC,vn,0,inactive
+AS151928,"ROSTEK CO .,JSC",vn,0,inactive
+AS151927,Truong Dai Digital Technology Company Limited,vn,0,inactive
+AS151926,TH Technology and Data Mining Company Limited,vn,0,inactive
+AS151925,"Technology NHD Co., Ltd",vn,0,inactive
+AS151924,NDD Digital Technology Company Limited,vn,0,inactive
+AS151922,Vietnam National Credit Information,vn,0,inactive
+AS151920,DDL Digital Technology Solutions Company Limited,vn,0,inactive
+AS151919,CLOUD WP Technology One Member LLC,vn,0,inactive
+AS151916,TPT Technology and Electronics Company Limited,vn,0,inactive
+AS151915,Tran Thi Data and Technology Company Limited,vn,0,inactive
+AS151914,Quoc Tin Cyber Technology Company Limited,vn,0,inactive
+AS151912,Tranco Technology Company Limited,vn,0,inactive
+AS151910,VIETNAM TELECOMMUNICATION COMPUTING JOINT STOCK COMPANY,vn,0,inactive
+AS151909,NGUYEN HAU TP COMPANY LIMITED,vn,0,inactive
+AS151908,MAY CHU VIET SOLUTIONS CORPORATION,vn,0,inactive
+AS151907,ECOSTA LIMITED,vn,0,inactive
+AS151906,ICODE DIGITAL DATA COMPANY LIMITED,vn,0,inactive
+AS151905,PHO TUE SOFTWARE AND TECHNOLOGY SOLUTIONS COMPANY LIMITED.,vn,0,inactive
+AS151904,TRAN PHAT CONSTRUCTION EQUIPMENT COMPANY LIMITED,vn,0,inactive
+AS151902,Center for Information Technology Application - Vietnam Academy of Social Sciences,vn,0,government
+AS151900,METECH TECHNOLOGY AND SERVICES COMPANY LIMITED,vn,0,inactive
+AS151899,EDC TECHNOLOGY JOINT STOCK COMPANY,vn,0,inactive
+AS151898,MEGAHOST TECHNOLOGY COMPANY LIMITED,vn,0,inactive
+AS151897,QUOC VUONG TECHNOLOGY COMPANY LIMITED,vn,0,inactive
+AS151896,ETEL TECHNOLOGY COMPANY LIMITED,vn,0,inactive
+AS151895,MYVPS TECHNOLOGY COMPANY LIMITED,vn,0,inactive
+AS151894,Department of Information and Communications of Hai Phong City,vn,0,inactive
+AS151892,NEWCLOUD DIGITAL TECHNOLOGY COMPANY LIMITED,vn,0,inactive
+AS151891,K-SERVER NETWORK SERVICES COMPANY LIMITED,vn,0,inactive
+AS151890,HAWK HOST COMPANY LIMITED,vn,0,inactive
+AS151889,HAI NAM REAL ESTATE AND TECHNOLOGY JOINT STOCK COMPANY,vn,0,inactive
+AS151888,SWIFT INVESTMENT AND TECHNOLOGY COMPANY LIMITED,vn,0,inactive
+AS151887,VCORE COMPANY LIMITED,vn,0,inactive
+AS151886,Department of Information and Communications of Ben Tre province,vn,0,inactive
+AS151884,STNC SERVICE CONSULTANCE COMPANY LIMITED,vn,0,inactive
+AS151883,LIEN CLOUD TECHNOLOGY COMPANY LIMITED,vn,0,inactive
+AS151882,CLOUDME COMPANY LIMITED,vn,0,inactive
+AS151881,GREEN LIGHT TECHNOLOGY SOLUTIONS COMPANY LIMITED,vn,0,inactive
+AS151880,BCONNECT TECHNOLOGY AND SOLUTION JOINT STOCK COMPANY,vn,0,inactive
+AS151879,GLOBAL TECHNOLOGY SOLUTIONS VIETNAM JOINT STOCK COMPANY,vn,0,inactive
+AS151878,EDC INTERNATIONAL TRADING COMPANY LIMITED,vn,0,inactive
+AS151877,ANH SAO TECHNOLOGY TRAINING CONSULTANT JOINT STOCK COMPANY,vn,0,inactive
+AS151876,"BLUE SKY NETWORK INFRASTRUCTURE SOLUTIONS CO., LTD",vn,0,inactive
+AS151875,TAFU ENERGY COMPANY LIMITED,vn,0,inactive
+AS151874,BIM VIETNAM COMMUNITY COMPANY LIMITED,vn,0,inactive
+AS151871,DANH TUAN TECHNOLOGY COMPANY LIMITED,vn,0,inactive
+AS151869,DLC DIGITAL TECHNOLOGY SOLUTION INVESTMENT LIMITED LIABILITY COMPANY,vn,0,inactive
+AS151864,TUAN VU SERVICES TECHNOLOGY COMPANY LIMITED,vn,0,inactive
+AS151862,NGOC TU NETWORK SOLUTIONS AND TECHNOLOGY COMPANY LIMITED,vn,0,inactive
+AS151861,STB TECHNOLOGY COMPANY LIMITED,vn,0,inactive
+AS151860,Department of Information and Communications of Hai Duong province,vn,0,inactive
+AS151859,CLOUDVIET COMPANY LIMITED,vn,0,inactive
+AS151856,LITESPEED TECHNOLOGY COMPANY LIMITED,vn,0,inactive
+AS151854,AHOST COMPANY LIMITED,vn,0,inactive
+AS151851,V9 ENTERPRISE SOLUTION JOINT STOCK COMPANY,vn,0,inactive
+AS150910,MODATEK LIMITED COMPANY,vn,0,inactive
+AS150908,LAM TRAN SOFTWARE DEVELOPMENT COMPANY LIMITED,vn,0,inactive
+AS150907,GREEN SYSTEM SOLUTIONS COMPANY LIMITED,vn,0,inactive
+AS150906,NOVA SQUARE LIMITED,vn,0,inactive
+AS150903,ROYAL TECHNOLOGY MEDIA JOINT STOCK COMPANY,vn,0,inactive
+AS150902,BIDATA MEDIA AND TECHNOLOGY JOINT STOCK COMPANY,vn,0,inactive
+AS150899,HTSG HIGH TECHNOLOGY SERVICES AND MEDIA JOINT STOCK COMPANY,vn,0,inactive
+AS150898,VINASITE VIET NAM COMPANY LIMITED,vn,0,inactive
+AS150893,Department of Information and Communications of Nghe An province,vn,0,inactive
+AS150891,INFOGATE TECHNOLOGY COMPANY LIMITED,vn,0,inactive
+AS150889,MONA HOST LIMITED,vn,0,inactive
+AS150886,VN CLOUD ONE MEMBER COMPANY LIMITED,vn,0,inactive
+AS150885,DA THANH TELECOMMUNICATION COMPANY LIMITED,vn,0,inactive
+AS150883,Department of Information and Communication of Gia Lai province,vn,0,inactive
+AS150879,WIX CLOUD COMPANY LIMITED,vn,0,inactive
+AS150878,V9 TECHNOLOGY JOINT STOCK COMPANY,vn,0,inactive
+AS150877,HOI LOC TRADE SERVICES COMPANY LIMITED,vn,0,inactive
+AS150876,MAILAND TECHNOLOGY TRADING SERVICES COMPANY LIMITED,vn,0,inactive
+AS150874,XOR BPO JOINT STOCK COMPANY,vn,0,inactive
+AS150871,N C T CORPORATION,vn,0,inactive
+AS150868,ADVIETNAM ADVERTISEMENT MEDIA COMPANY LIMITED,vn,0,inactive
+AS150865,MMO VIET NAM SOFTWARE COMPANY LIMITED,vn,0,inactive
+AS150863,HUY NGUYEN TECHNOLOGY SOLUTION JOINT STOCK COMPANY,vn,0,inactive
+AS150859,SANDCLOCK SERVICE TRADING COMPANY LIMITED,vn,0,inactive
+AS150858,"VIET SERVER TECHNOLOGY SOLUTIONS CO.,LTD",vn,0,inactive
+AS150853,CLOUD VIET ONE MEMBER COMPANY LIMITED,vn,0,inactive
+AS150852,BIGZ TECHNOLOGY JOINT STOCK COMPANY,vn,0,inactive
+AS150851,DXT DIGITAL TRANSFORMATION TECHNOLOGY JOINT STOCK COMPANY,vn,0,inactive
+AS150849,Pho Web Technology Joint Stock Company,vn,0,inactive
+AS150848,VINAF GLOBAL COMPANY LIMITED,vn,0,inactive
+AS150845,DIDOTEK COMPANY LIMITED,vn,0,inactive
+AS150844,VIN8 TECHNOLOGY INVESTMENT COMPANY LIMITED,vn,0,inactive
+AS150843,PHU MINH TECHNICAL SERVICE TRADING COMPANY,vn,0,inactive
+AS150841,Quang Ngai Department of Information and Communications,vn,0,inactive
+AS150840,HVT TM AND XNK COMPANY LIMITED,vn,0,inactive
+AS150839,THIEN TUAN SOLUTION AND TECHNOLOGY COMPANY LIMITED,vn,0,inactive
+AS150833,TUAN LINH 88 COMPANY LIMITED,vn,0,inactive
+AS150832,NTNT COMPANY LIMITED,vn,0,inactive
+AS150831,JACCS international vietnam finance company limited,vn,0,inactive
+AS150829,DIGITAL NETWORK CLOUD COMPANY LIMITED,vn,0,inactive
+AS150827,MUOI LONG COMPANY LIMITED,vn,0,inactive
+AS150826,VR VIET NAM COMPANY LIMITED,vn,0,inactive
+AS150822,Tuyen Quang Department of Information and Communications,vn,0,inactive
+AS150818,HYPERCORE TECHNOLOGY JOINT STOCK COMPANY,vn,0,inactive
+AS150817,MIND TECHNOLOGY LIMITED LIABILITY COMPANY,vn,0,inactive
+AS150816,CAMERA-VIET TECHNOLOGY SOLUTIONS COMPANY LIMITED,vn,0,inactive
+AS150815,VUONG THANG VTDIGITAL COMPANY LIMITED,vn,0,inactive
+AS150814,VNIS JOINT STOCK COMPANY,vn,0,inactive
+AS149158,VietNam Eastern Sun Joint Stock Company,vn,0,inactive
+AS149156,Bac Ninh Department of Information and Communications,vn,0,government
+AS149155,SUNCLOUD TECHNOLOGY INFRASTRUCTURE JOINT STOCK COMPANY,vn,0,inactive
+AS149153,Thanh Hoa Information and Communication Technology Center,vn,0,inactive
+AS149152,Onet IDC Company,vn,0,inactive
+AS149144,VIHAT TECHNOLOGY COMPANY LIMITED,vn,0,inactive
+AS149141,VAN ARCHITECTURE AND CONSTRUCTION COMPANY LIMITED,vn,0,inactive
+AS149140,VIETSPEED SERVICE COMPANY LIMITED,vn,0,inactive
+AS149133,MOC LAM TRADING AND SERVICES JOINT STOCK COMPANY,vn,0,inactive
+AS149126,IMEDIA TECHNOLOGY AND SERVICES JOINT STOCK COMPANY,vn,0,inactive
+AS149122,3T SYSTEM SOLUTIONS COMPANY LIMITED,vn,0,inactive
+AS149121,Lai Chau Department of Information and Communications,vn,0,inactive
+AS149119,DHD TELECOM COMPANY LIMITED,vn,0,inactive
+AS149115,KINGBOND MIEN TRUNG COMPANY LIMITED,vn,0,inactive
+AS149114,NVK TECHNOLOGY AND SERVICES COMPANY LIMITED,vn,0,inactive
+AS149113,ODB VIET NAM COMPANY LIMITED,vn,0,business
+AS149112,TTK VIET NAM EDUCATION TECHNOLOGY JOINT STOCK COMPANY,vn,0,inactive
+AS149111,TEDEV TECHNOLOGICAL DEVELOPMENT COMPANY LIMITED,vn,0,inactive
+AS149110,CLOUD4VN DIGITAL TECHNOLOGY COMPANY LIMITED,vn,0,inactive
+AS149108,BSS MANAGEMENT CONSULTANT COMPANY LIMITED,vn,0,inactive
+AS149106,VIETNAM SERVER SOLUTION COMPANY LIMITED,vn,0,inactive
+AS149104,UNI JOINT STOCK COMPANY,vn,0,business
+AS149103,BACH KIM HNT COMPANY LIMITED,vn,0,inactive
+AS149097,FASTLY NETWORK SOLUTION COMPANY LIMITED,vn,0,inactive
+AS149095,TRINH VIET DIGITAL TECHNOLOGY COMPANY LIMITED,vn,0,inactive
+AS149093,VPS VIET NAM COMPANY LIMITED,vn,0,inactive
+AS149092,Inet academy joint stock company,vn,0,inactive
+AS149091,INET E - Commerce Joint Stock Company,vn,0,inactive
+AS149090,ZOZO SOFTWARE COMPANY LIMITED,vn,0,inactive
+AS149088,INET Solution Corporation,vn,0,inactive
+AS149087,Hanoi University,vn,0,inactive
+AS149086,Digital Era Software Company Limited,vn,0,inactive
+AS149084,KBG VIET NAM REFRIGERATION ELECTRICAL ENGINEERING TRADING COMPANY LIMITED,vn,0,inactive
+AS149083,VPSCLOUD 24H TECHNOLOGY AND SERVICES COMPANY LIMITED,vn,0,inactive
+AS149082,NGOC MINH TECHNOLOGY JOINT STOCK COMPANY,vn,0,inactive
+AS149081,GREEN CITY Construction Investment Joint Stock Company,vn,0,inactive
+AS149075,Tan Hoang ViNa Company Limited,vn,0,inactive
+AS149073,"Hunasoft Technology Solution Consulting Co., Ltd",vn,0,inactive
+AS149072,VPSTTT Technology Company Limited,vn,0,inactive
+AS149071,"Phuong Tran Co., Ltd",vn,0,inactive
+AS149070,Da Thanh Service and Trade Company Limited,vn,0,inactive
+AS149067,AZ Clean Trading and Manufacturing Joint Stock Company,vn,0,inactive
+AS149066,"ADNS CO., LTD",vn,0,inactive
+AS149064,CLOUDSTACK COMPANY LIMITED,vn,0,inactive
+AS140836,PVS SOFTWARE COMPANY LIMITED,vn,0,inactive
+AS140835,VAN TRANG PHARMACEUTICAL SUPPLY JOINT STOCK COMPANY,vn,0,inactive
+AS140828,TEKNIX TECHNOLOGY CORPORATION,vn,0,inactive
+AS140821,"No 3 Dien Bien Phu, V Ward, Vi Thanh City, Hau Giang",vn,0,inactive
+AS140820,"P2702 A3 Ecolife Capitol - 58 To Huu, Me Tri Ward, Nam Tu Liem Distrct, Ha Noi City",vn,0,inactive
+AS140816,Internet Khong Trung Company,vn,0,inactive
+AS140812,"22B, Alley 57 Hoa Binh, Group 14, yen Nghia Ward, Ha Dong District, Ha Noi",vn,0,inactive
+AS140808,ONE PLUS INTERNATIONAL CORPORATION,vn,0,inactive
+AS140805,TIN VIET TECHNOLOGY ENGINEERING COMPANY LIMITED,vn,0,inactive
+AS140802,UNINATION,vn,0,inactive
+AS140800,HANDVINA,vn,0,inactive
+AS140798,"BAO NAM HOLDINGS., JSC",vn,0,inactive
+AS140797,EXA COMPANY LIMITED,vn,0,inactive
+AS140795,CYBERLOTUS,vn,0,inactive
+AS140794,Ha Tinh Department of Information and Communications,vn,0,inactive
+AS140793,VIET NAM GALAXY DIGITAL TECHNOLOGY COMPANY LIMITED,vn,0,inactive
+AS140792,IT VILAS VIET NAM JOINT STOCK COMPANY,vn,0,inactive
+AS140790,CLOUDCORE JOINT STOCK COMPANY,vn,0,inactive
+AS140788,Catiedu Online Training Academy Company Limited,vn,0,inactive
+AS140785,VINCOMMERCE GENERAL COMMERCIAL SERVICES JOINT STOCK COMPANY,vn,0,inactive
+AS140784,VIET DIGITAL SOLUTIONS JOINT STOCK COMPANY,vn,0,inactive
+AS140783,NAMEDIA INTERNATIONAL TECHNOLOGY COMPANY LIMITED,vn,0,inactive
+AS140782,"424 De La Thanh, O Cho Dua Ward, Dong Da District, Ha Noi City",vn,0,inactive
+AS140780,THAI AN INFORMATION TECHNOLOGY JOINT STOCK COMPANY,vn,0,inactive
+AS140779,VINA-BISON INTERNATIONAL TRADING COMPANY LIMITED,vn,0,inactive
+AS140778,MINH HIEN SOLUTIONS COMPANY LIMITED,vn,0,inactive
+AS140777,VNCOIN247 CORPORATION,vn,0,inactive
+AS140776,247 SCRAP TRADE JOINT STOCK COMPANY,vn,0,inactive
+AS140773,THIEN CO MANUFACTURING TRADING SERVICES JOINT STOCK COMPANY,vn,0,inactive
+AS140772,"MEITC CO.,LTD",vn,0,inactive
+AS140771,MXGROUP TECHNOLOGY JOINT STOCK COMPANY,vn,0,inactive
+AS140767,VINASOFT One Member Limited Company,vn,0,inactive
+AS140763,ITEXPERT Viet Nam Joint Stock Company,vn,0,inactive
+AS140756,SAIGON TELECOMMUNICATIONS TECHNOLOGY SOLUTIONS COMPANY,vn,0,inactive
+AS140755,Viet Nam Blue Sea Technology Corporation,vn,0,inactive
+AS140754,SPR Viet Nam Joint Stock Company,vn,0,inactive
+AS140753,Representative Office in Hanoi of Vinahost Company Limited,vn,0,inactive
+AS140752,Kien Phong Trading Service Telecommunication Company Limited,vn,0,inactive
+AS140749,NSTECH VIET NAM JOINT STOCK COMPANY,vn,0,inactive
+AS140746,MCT Technology Solution Joint Stock Company,vn,0,inactive
+AS140744,Hanoi Technology and Equipment Joint Stock Company,vn,0,inactive
+AS140743,"HUNG CUONG DIGITAL TECHNOLOGY CO.,LTD",vn,0,inactive
+AS140741,DIGITAL TECHNOLOGY DEVELOPMENT AND INVESTMENT COMPANY LIMITED,vn,0,inactive
+AS140740,HA CUONG TRADING INVESTMENT COMPANY LIMITED,vn,0,inactive
+AS140738,VESNET JOINT STOCK COMPANY,vn,0,inactive
+AS140737,Viva social network Joint Stock Company,vn,0,inactive
+AS135999,ITCPLUS Vietnam Joint Stock Company,vn,0,inactive
+AS135996,Be Group Joint Stock Company,vn,0,inactive
+AS135995,TLINKVN Technology Connection Joint Stock Company,vn,0,inactive
+AS135993,IPTP Networks Company Limited,vn,0,inactive
+AS135992,Vietnam Directorate of Market Surveillance,vn,0,inactive
+AS135985,BCALL Viet Nam Company Limited,vn,0,business
+AS135984,Tino Group Joint Stock Company,vn,0,inactive
+AS135979,QI TECHNOLOGIES CORPORATION,vn,0,inactive
+AS135976,CLO Technology Limited Company,vn,0,inactive
+AS135975,Sea Gem Company Limited,vn,0,inactive
+AS135970,EASTERN TRAINING CONSULTANCY AND TAX AGENCY COMPANY LIMITED,vn,0,inactive
+AS135968,Early Start Joint Stock Company,vn,0,inactive
+AS135966,Edutop64 Training Development and Investment Corporation,vn,0,inactive
+AS135965,VNPT Net Corporation - VNPT Group,vn,0,inactive
+AS135954,Five9 Vietnam Corporation,vn,0,inactive
+AS135950,Binh Duong E-Government Information Center,vn,0,inactive
+AS135940,Nice Tech Center Vietnam Limited Company,vn,0,inactive
+AS135937,Next Technology Investment and Development Company Limited,vn,0,inactive
+AS135931,Information Center - Committee for ethnic minorities affairs,vn,0,inactive
+AS135930,Representative office of Ligh technology viet joint stock company,vn,0,inactive
+AS135928,Digital Convergence Technology Solutions Company Limited,vn,0,inactive
+AS135914,Quang Trung Software City Development Company,vn,0,inactive
+AS135907,"VI NA Host Co., ltd",vn,0,inactive
+AS135903,FFC joint stock company,vn,0,inactive
+AS131441,May Chu Viet Company Limited,vn,0,inactive
+AS131437,DT Communications company limited,vn,0,inactive
+AS131433,Corporation Technology Development Eposi,vn,0,inactive
+AS131432,Cyber Link Service Trading Corporation,vn,0,inactive
+AS131424,Online Solution Company Limited,vn,0,inactive
+AS131420,Truong Quoc te da cap Anh - HaNoi (BIS HANOI),vn,0,inactive
+AS131416,Cloudone Technology Company Limited,vn,0,inactive
+AS131400,Global Data Joint Stock Company,vn,0,inactive
+AS131399,AI-Solutions Company Limited,vn,0,inactive
+AS131395,Van phong dieu phoi Chuong trinh muc tieu quoc gia,vn,0,inactive
+AS131394,Cloudovs Vietnam Technology Joint Stock Company,vn,0,inactive
+AS131393,Minh Phat Telecomunication service Company Limited,vn,0,inactive
+AS131384,Viet Solutions Services Trading Company Limited,vn,0,inactive
+AS131377,"DIGIPOWER CO., LTD",vn,0,inactive
+AS131370,NETNAM Company,vn,0,inactive
+AS131361,GSS Investment Corporation,vn,0,inactive
+AS131359,ACB Securities Co. Ltd,vn,0,inactive
+AS131356,VERMOS COMPANY LIMITED,vn,0,inactive
+AS131346,FLYCLOUD Company Limited,vn,0,inactive
